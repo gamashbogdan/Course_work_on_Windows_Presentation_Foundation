@@ -1,1 +1,2 @@
-# Course_work_on_Windows_Presentation_Foundation
+# Курсова робота по Windows Presentation Foundation
+# Клавіатурний Тренажер
