@@ -228,7 +228,7 @@ namespace Keyboard_exercise_machine
             }
             if (!mesStop)
             {
-                MessageBox.Show($"Завдання завершено!\n Кількість символів {linePrograms.Text.Length}.\n Кількість помилок {Fails.Content}.\nДля закінчення завдання натисніть Stop.", "Повідомлення", MessageBoxButton.OK, MessageBoxImage.Information);
+                MessageBox.Show($"Завдання закінчено!\n Кількість символів {linePrograms.Text.Length}.\n Кількість помилок {Fails.Content}.\nДля закінчення завдання натисніть Stop.", "Повідомлення", MessageBoxButton.OK, MessageBoxImage.Information);
                 mesStop = true;
             }
         }
